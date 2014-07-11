@@ -1,0 +1,7 @@
+enable
+show interfaces
+show interfaces counters
+show version
+show lldp
+show lldp neighbors 
+show inventory

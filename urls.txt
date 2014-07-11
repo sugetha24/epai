@@ -1,0 +1,2 @@
+https://eapi:password@172.16.130.20/command-api
+https://eapi:password@172.16.130.21/command-api
